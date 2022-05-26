@@ -1,0 +1,34 @@
+.footer{
+   background-color: rgb(1, 6, 18);
+    height: 65px;
+    width: 100%;
+    margin-top: 50px;
+    color: rgb(78, 78, 249);
+}
+.info{
+    display: flex;
+ }
+ .sec1{
+   
+    margin-top: 3px;
+    color: #FFF;
+ }
+ 
+ .text{
+    height: 20px;
+    color: aliceblue;
+ }
+ .LinkTag{
+    color: rgb(42, 23, 214);
+    margin-top: 2px;
+ }
+ .centerBox{
+    margin-left: 25%;
+    color: #FFF;
+    margin-top: 20px;
+ }
+ .RightBox{
+    margin-left: 30%;
+    margin-top: 20px;
+    color: #FFF;
+ }
